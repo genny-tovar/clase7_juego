@@ -1,0 +1,35 @@
+Microsoft Windows [Versión 10.0.17134.885]
+(c) 2018 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\UEFI>CD \
+
+C:\>CD Python27
+
+C:\Python27>CD Scripts
+
+C:\Python27\Scripts>pip install pygame
+Collecting pygame
+
+
+
+
+
+cd ..
+
+D:\Genny_python\CLASE_7_JUEGO\pygame-master>     cd ejercicio02
+
+D:\Genny_python\CLASE_7_JUEGO\pygame-master\ejercicio02>    cd proyecto
+
+D:\Genny_python\CLASE_7_JUEGO\pygame-master\ejercicio02\proyecto>    python asteroids001.py
+
+
+
+
+ cd ..
+
+D:\>cd Genny_python\CLASE_7_JUEGO\pygame-master\    ejercicio03
+
+D:\Genny_python\CLASE_7_JUEGO\pygame-master\    ejercicio03>cd proyecto
+
+D:\Genny_python\CLASE_7_JUEGO\pygame-master\ejercicio03\proyecto>      python invaders001.py
+
